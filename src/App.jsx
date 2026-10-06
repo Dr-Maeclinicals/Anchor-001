@@ -1,4 +1,4 @@
-import { useState, useMemo, useEffect, useRef } from "react";
+import { useState, useMemo, useEffect, useRef } from 'react';
 import {
   Home as HomeIcon,
   CheckCircle2,
@@ -22,7 +22,7 @@ import {
   Flower2,
   Shell,
   Mountain,
-} from "lucide-react";
+} from 'lucide-react';
 
 /* ───────────────────────── styles ───────────────────────── */
 
